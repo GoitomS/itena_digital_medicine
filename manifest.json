@@ -1,0 +1,20 @@
+{
+    "name": "Itena doctors app",
+    "short_name": "Itena",
+    "start_url": ".",
+    "background_color": "#f5f5f5",
+    "theme_color": "#ccc",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "resources/iTena512.png",
+            "sizes": "160x160",
+            "type": "image/png"
+        },
+        {
+            "src": "resources/iTena512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
